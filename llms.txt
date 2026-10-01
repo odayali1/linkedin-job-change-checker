@@ -1,0 +1,16 @@
+# LinkedIn Current Company Checker
+
+> Check which saved LinkedIn contacts changed employer before paying for a full profile refresh, using the Mawsool Actor on Apify.
+
+This repository is an example client. Run the published Mawsool Actor on Apify with your own Apify token. Contact info@mawsool.tech · osama@mawsool.tech. Product site: https://mawsool.tech.
+
+## Actors
+
+- [LinkedIn Current Company Checker](https://apify.com/oday/mawsool-linkedin-company-checker): the Actor this code runs
+- [All Mawsool Actors](https://apify.com/oday): the full LinkedIn data suite
+
+## Docs
+
+- [README](https://github.com/odayali1/linkedin-job-change-checker/blob/main/README.md): how to run the example and what it returns
+- [AGENTS.md](https://github.com/odayali1/linkedin-job-change-checker/blob/main/AGENTS.md): instructions for coding agents
+- [Example CSV](https://github.com/odayali1/linkedin-job-change-checker/blob/main/examples/input.csv): input shape
